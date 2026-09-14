@@ -3,9 +3,9 @@
 
 ## Student Information
 
-- Name: 고대웅 (rheodnd1208)
+- Name: 고대웅 (rheodnd1208-ui)
 - Student ID: 2022732052
-- Partner: 고대웅 (rheodnd0604)
+- Partner: 고대웅 (Stellar2392)
 - Course: 인공지능응용
 - 두 개의 계정을 이용해 실습
 
